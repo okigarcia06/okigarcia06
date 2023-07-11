@@ -16,4 +16,5 @@
 ### Contact:
 You can find me on the following platforms:
 📧 okigarcia06@gmail.com
-![image](https://github.com/okigarcia06/okigarcia06/assets/82784892/2f0ea01c-cd4d-42f1-8d4c-3794bfef93c8)
+![image](https://github.com/okigarcia06/okigarcia06/assets/82784892/e8cc7586-3d14-4d60-b1d3-ceae7848e827)
+
