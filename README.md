@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-##About me:
+## About me:
 
 #### Hi there, I'm Octavio! 👋
 
