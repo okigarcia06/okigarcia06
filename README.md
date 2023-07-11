@@ -8,4 +8,7 @@
 
 🔜 In-progress Systems Engineer & Full Stack Developer.
 
+### Technical Skills:
 
+
+Databases: I've gained knowledge in designing and managing relational databases, including SQL Server and PostgreSQL, through coursework and universtity projects.
