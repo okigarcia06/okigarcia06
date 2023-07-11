@@ -15,6 +15,6 @@
 
 ### Contact:
 You can find me on the following platforms:
-📧 okigarcia06@gmail.com
-![image](https://github.com/okigarcia06/okigarcia06/assets/82784892/e8cc7586-3d14-4d60-b1d3-ceae7848e827)
+##### okigarcia06@gmail.com
+##### https://www.linkedin.com/in/octavio-garcia-larrecharte/
 
