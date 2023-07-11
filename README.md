@@ -2,5 +2,6 @@
 
 🧑‍💻 Advanced Student of Systems Engineer with great interest in front-end and database development.
 
-🔜 In-progress Full Stack Developer.
+🔜 In-progress Systems Engineer & Full Stack Developer.
+
 
