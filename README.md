@@ -13,7 +13,7 @@
 
 ✅Git: I am proficient in using Git for version control, enabling effective collaboration and project management.
 
-✅Databases: I've gained knowledge in designing and managing relational databases, including SQL Server and PostgreSQL, through coursework and universtity projects.
+✅Databases: I've gained knowledge in designing and managing relational databases, including SQL Server and PostgreSQL, through coursework and university projects.
 
 ### Contact:
 You can find me on the following platforms:
