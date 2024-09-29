@@ -9,7 +9,7 @@
 🔜 In-progress Systems Engineer & Full Stack Developer.
 
 ### Technical Skills:
-✅Programming languages: I have a solid foundation in programming font-end languages such as Javascript including CSS and HTML. Also I am familiar with languages such as Phyton, C# and .NET framework. 
+✅Programming languages: I have a solid foundation in programming front-end languages such as Javascript (ReactJS & NodeJS) including CSS and HTML. Also I am familiar with languages such as Phyton, C# and .NET framework. 
 
 ✅Git: I am proficient in using Git for version control, enabling effective collaboration and project management.
 
